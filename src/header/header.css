@@ -1,0 +1,13 @@
+.Page-header {
+    height: 30vh;
+    border-bottom: 0.2rem solid red;
+    display: flex;
+    justify-content: flex-start;
+    align-items: center;
+    
+}
+
+.logo{
+    height: calc(0.9 * 30vh);
+    width: calc(0.9 * 30vh);
+}

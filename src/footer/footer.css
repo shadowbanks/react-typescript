@@ -1,0 +1,7 @@
+.Page-footer {
+    text-align: center;
+    border-top: 0.2rem solid red;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
